@@ -1,0 +1,31 @@
+.receipt-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 400px;
+  }
+  
+  .receipt-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .receipt-content {
+    font-size: 16px;
+  }
+  
+  .receipt-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .receipt-label {
+    font-weight: bold;
+  }
+  
+  .receipt-value {
+    flex: 1;
+    text-align: right;
+  }
+  
